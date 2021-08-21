@@ -1,0 +1,22 @@
+{
+  "name": "node_ex",
+  "version": "1.0.0",
+  "description": "Nothin'",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vlelouch/node_ex.git"
+  },
+  "keywords": [
+    "nova"
+  ],
+  "author": "viswa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vlelouch/node_ex/issues"
+  },
+  "homepage": "https://github.com/Vlelouch/node_ex#readme"
+}
